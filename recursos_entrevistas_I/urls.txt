@@ -1,0 +1,5 @@
+https://www.techinterviewhandbook.org/
+https://github.com/sudheerj/javascript-interview-questions
+https://github.com/midudev/preguntas-entrevista-react
+https://github.com/DopplerHQ/awesome-interview-questions
+https://github.com/jwasham/coding-interview-university

@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=c9J7FHLjBds&ab_channel=codigofacilito
+https://j2logo.com/python/funciones-lambda-en-python/
+https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n#Clasificaci%C3%B3n_por_paradigmas
+https://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional
+https://codigofacilito.com/articulos/programacion-funcional
+https://es.wikipedia.org/wiki/Python
+https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion1/caracteristicas.html
+https://www.youtube.com/watch?v=3fqll_Mnf3M&ab_channel=MundoPython
+https://es.acervolima.com/decoradores-de-python-una-guia-completa/
+https://www.youtube.com/watch?v=9o1P-4NKoK8
+https://ellibrodepython.com/lambda-python
+https://jarroba.com/generadores-en-python-la-base-del-streaming/
+https://pywombat.com/articles/generadores-python
+https://pywombat.com/articles/generadores-python
+https://platzi.com/tutoriales/1104-python/4666-generadores/

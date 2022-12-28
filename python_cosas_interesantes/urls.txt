@@ -1,0 +1,17 @@
+https://rico-schmidt.name/pymotw-3/networking.html
+https://anandology.com/python-practice-book/getting-started.html
+https://pusher.com/tutorials/live-dashboard-python/
+https://webdesign.tutsplus.com/tutorials/building-an-admin-dashboard-layout-with-css-and-a-touch-of-javascript--cms-33964
+https://github.com/jwasham/computer-science-flash-cards
+https://startupnextdoor.com/flash-cards-site-complete/
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?programming_languages=python#linear
+https://techdevguide.withgoogle.com/paths/
+https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/
+https://rico-schmidt.name/pymotw-3/algorithm_tools.html
+https://www.desarrollo-web-br-bd.com/es/python/debo-usar-import-os.path-o-import-os/969997168/
+https://likegeeks.com/es/modulos-de-python/
+https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/
+https://codingornot.com/08-python-validar-entradas-ejemplos
+https://rico-schmidt.name/pymotw-3/os.path/index.html
+https://rico-schmidt.name/pymotw-3/string/index.html
+https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash

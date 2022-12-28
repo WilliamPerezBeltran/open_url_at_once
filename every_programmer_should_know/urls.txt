@@ -1,0 +1,11 @@
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-es.md
+
+https://github.com/DovAmir/awesome-design-patterns
+https://github.com/mtdvio/every-programmer-should-know
+https://github.com/codecrafters-io/build-your-own-x
+https://github.com/midudev/preguntas-entrevista-react
+https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
+https://cp-algorithms.com/
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://www.codechef.com/wiki/tutorial-number-theory/

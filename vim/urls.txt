@@ -1,0 +1,20 @@
+https://platzi.com/blog/guia-definitiva-para-vim-y-neovim-instalacion-comandos-y-trucos/
+https://victorhck.gitbook.io/aprende-vim/cap02_buffers_ventanas_pestanas
+https://geekland.eu/instalar-y-configurar-vim/
+https://openwebinars.net/blog/vim-manual-de-uso-basico/
+https://www.cs.swarthmore.edu/oldhelp/vim/selection.html
+https://www.youtube.com/watch?v=EJb1GHXl7PM&ab_channel=JuncoTIC
+https://github.com/vim-ruby/vim-ruby
+
+
+Con esto puedes obtener las siguientes combinaciones:
+
+daw para borrar una palabra.
+das para borrar una frase.
+da" para borrar algo entre comillas dobles, incluyendo las comillas.
+ci" para cambiar algo entre comillas dobles.
+dap para borrar un párrafo
+dab da( o da) para borrar un bloque entre paréntesis.
+daB da{ o da} para borrar un bloque entre llaves
+dat para borrar una etiqueta HTML.
+cit para cambiar el contenido de una etiqueta HTML.

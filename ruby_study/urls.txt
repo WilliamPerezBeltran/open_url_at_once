@@ -1,0 +1,9 @@
+https://www.tutorialspoint.com/ruby/index.htm
+https://www.theodinproject.com/lessons/ruby-variables
+https://launchschool.com/books/ruby/read/variables
+http://nicholasjohnson.com/ruby/ruby-course/exercises/strings/
+http://ruby-for-beginners.rubymonstas.org/built_in_classes.html
+https://guias.makeitreal.camp/preparacion
+https://ruby-doc.com/docs/ProgrammingRuby/
+https://i-love-ruby.gitlab.io/book.html#_downto
+https://www.tutorialspoint.com/ruby/ruby_exceptions.htm
