@@ -49,4 +49,5 @@ https://www.freecodecamp.org/news/how-to-make-progress-while-studying-for-coding
 https://youtu.be/2zKCQ03JzOY
 https://www.youtube.com/@TheModernCoder
 https://www.coursera.org/learn/algorithms-part1
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 https://www.coursera.org/learn/analysis-of-algorithms

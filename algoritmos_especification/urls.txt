@@ -54,3 +54,4 @@ https://open.kattis.com/problems/oddbinom
 https://www.youtube.com/watch?v=gDyHDc2PJfM&list=PLMDFPuH4ZxUFGC5ICUu8xstOxQIizMgX2&index=1&ab_channel=AlgorithmsLab
 https://www.youtube.com/watch?v=2i67-OF8S0g&list=PLJ6dCSmrY8yM4KwGy09CvKduKwnPtOgjs&index=1&ab_channel=CarlosEnriqueBuesoOrdo%C3%B1ez
 https://www.youtube.com/watch?v=2i67-OF8S0g&list=PLJ6dCSmrY8yM4KwGy09CvKduKwnPtOgjs&ab_channel=CarlosEnriqueBuesoOrdo%C3%B1ez
+https://www.youtube.com/watch?v=09vU-wVwW3U&ab_channel=MITOpenCourseWare
