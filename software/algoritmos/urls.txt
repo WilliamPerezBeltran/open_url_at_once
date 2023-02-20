@@ -51,3 +51,4 @@ https://www.youtube.com/@TheModernCoder
 https://www.coursera.org/learn/algorithms-part1
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 https://www.coursera.org/learn/analysis-of-algorithms
+https://www.youtube.com/watch?v=Rw0YIXttwYQ&list=PLcZObxjWz_TYNYpUWJSzAjdlH27C7DMN4&ab_channel=FacultaddeMatem%C3%A1ticas-UniversidadComplutensedeMadrid
